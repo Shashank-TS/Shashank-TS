@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-ts&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-ts" /> </p>
 
-- 🌱 I’m currently learning **Spring boot, react**
+- 🌱 Currently exploring **Spring boot, react**
 
 - 📫 How to reach me **shashankts7892@gmail.com**
+
+- 🗂️ Projects ->
+- <a href="https://github.com/shashank/ai-healthcare-assistant" target="_blank">Prescripto</a>: An AI powered Disease prediction and Healthcare Assistant, hospital management, and online doctor booking.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
