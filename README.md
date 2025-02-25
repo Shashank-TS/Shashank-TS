@@ -8,7 +8,7 @@
 - 📫 How to reach me **shashankts7892@gmail.com**
 
 - 🗂️ Projects ->
-- <a href="https://github.com/shashank/ai-healthcare-assistant" target="_blank">Prescripto</a>: An AI powered Disease prediction and Healthcare Assistant, hospital management, and online appointment booking.
+- <a href="https://github.com/Shashank-TS/Prescripto-AI-Healthcare-Assistant" target="_blank">Prescripto</a>: An AI powered Disease prediction and Healthcare Assistant, hospital management, and online appointment booking.
 
 
 <h3 align="left">Connect with me:</h3>
