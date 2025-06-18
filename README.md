@@ -7,11 +7,13 @@
 
 - 📫 How to reach me **shashankts7892@gmail.com**
 
-- 🗂️ Projects ->
-- <a href="https://github.com/Shashank-TS/Prescripto-AI-Healthcare-Assistant" target="_blank">Prescripto</a>: An AI powered Disease prediction and Healthcare Assistant, hospital management, and online appointment booking.
+### 🗂️ Projects
+- 🌟 Prescripto: AI powered Disease prediction and Healthcare Assistant, hospital management, and online appointment booking. 🌟
+  - <a href="https://github.com/Shashank-TS/Prescripto-AI-Healthcare-Assistant" target="_blank">[repository-link]</a>   <a href="https://prescripto-ai-healthcare-assistant.netlify.app" target="_blank"> [🌐live]</a>
+- 🌟 QuickBlog: AI-Enhanced Full-Stack Blogging Platform 🌟
+  - <a href="https://github.com/Shashank-TS/QuickBlog-AI-Enhanced-Full-Stack-Blogging-Platform" target="_blank">[repository-link]</a>   <a href="https://quickblog-ai-enhanced.netlify.app" target="_blank"> [🌐live]</a>
 
-
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
 <a href="www.linkedin.com/in/shashank-t-s-1bb938292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank" height="30" width="40" /></a>
 </p>
