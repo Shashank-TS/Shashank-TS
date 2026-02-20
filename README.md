@@ -23,7 +23,7 @@
 
 ## 🌐 Live Portfolio
 
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-5f6FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-5f6FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://shashank-ts.vercel.app)
 
 #### Explore my full-stack and AI projects, real-world applications, and technical case studies.
 ---
