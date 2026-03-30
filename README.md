@@ -35,6 +35,23 @@
 
 ---
 
+### 💼 Professional Work
+
+<table border="0">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <img src="https://github.com/Shashank-TS/project-assets-snapshots/blob/main/glam%20studio/Screenshot%202026-03-30%20194041.png" alt="The SP Academy" style="max-width:100%; border-radius:10px;">
+      <br />
+      <b>The SP Academy</b>
+      <br />
+      <a href="https://theglamstudio.in">🌐 Live Demo</a>
+    </td>
+  </tr>
+ 
+</table>
+
+---
+
 ### 🌟 Featured Projects
 
 <table border="0">
